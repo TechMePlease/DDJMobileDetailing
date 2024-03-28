@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>1600</order>
+        <published_ref/>
+        <question display_value="Where is the location of the damage?">143a13c4839d8210af80c730ceaad3b3</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-27 23:50:48</sys_created_on>
+        <sys_id>9eccdb88839d8210af80c730ceaad387</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Driver's Seat </sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>question_choice_9eccdb88839d8210af80c730ceaad387</sys_update_name>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-28 01:48:18</sys_updated_on>
+        <text>Driver's Seat </text>
+        <value>drivers_seat</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=9eccdb88839d8210af80c730ceaad387"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>9eccdb88839d8210af80c730ceaad387</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-28 01:56:09</sys_created_on>
+        <sys_id>1a79bb8c8311c210af80c730ceaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-28 01:56:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>9eccdb88839d8210af80c730ceaad387</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-28 01:56:09</sys_created_on>
+        <sys_id>da79bb8c8311c210af80c730ceaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-28 01:56:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
