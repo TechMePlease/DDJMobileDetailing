@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">945c1f48f09d82100079b068fa98f659</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">d05c1f48c99d82108fac23270cc6dd56</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 23:48:47</sys_created_on>
+        <sys_id>505c1f485f9d82108a982b81a64b3155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_505c1f485f9d82108a982b81a64b3155</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:48:47</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

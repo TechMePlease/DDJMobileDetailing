@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">a50308a0a0d10610452d0c106044acaa</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-28 21:16:23</sys_created_on>
+        <sys_id>a90308a0dbd106107f10162784ea8fa6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_a90308a0dbd106107f10162784ea8fa6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:16:23</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">650308a031d10610fe2ed11c73912ba8</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Damage Complaints">16a0530c835d8210af80c730ceaad360</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-27 23:10:30</sys_created_on>
+        <sys_id>449357cc835d8210af80c730ceaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Damage Complaints</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_449357cc835d8210af80c730ceaad364</sys_update_name>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:10:30</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</application>
+        <file_path/>
+        <instance_id>889c51e11b8506147d9d2f8dee4bcb83</instance_id>
+        <instance_name>dev245491</instance_name>
+        <name>sc_cat_item_catalog_449357cc835d8210af80c730ceaad364</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Damage Complaints">16a0530c835d8210af80c730ceaad360</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>Deirdre Hart</sys_created_by><sys_created_on>2024-03-27 23:10:30</sys_created_on><sys_id>449357cc835d8210af80c730ceaad364</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Damage Complaints</sys_name><sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package><sys_policy/><sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope><sys_update_name>sc_cat_item_catalog_449357cc835d8210af80c730ceaad364</sys_update_name><sys_updated_by>Deirdre Hart</sys_updated_by><sys_updated_on>2024-03-27 23:10:30</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>91337496</payload_hash>
+        <record_name>Service Catalog.Damage Complaints</record_name>
+        <reverted_from/>
+        <source>661e056783410210af80c730ceaad37f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-27 23:10:30</sys_created_on>
+        <sys_id>049357cc835d8210af80c730ceaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e822de9fb0000001</sys_recorded_at>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:10:30</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>849357ccd25d8210c98d43c6b1750867</update_guid>
+        <update_guid_history>849357ccd25d8210c98d43c6b1750867:91337496</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Damage Complaints">75b31bcc835d8210af80c730ceaad385</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Deirdre Hart</sys_created_by>
+        <sys_created_on>2024-03-27 23:11:11</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>5752659a377c45e88c404934f72cdba4</sys_id>
+        <sys_metadata>449357cc835d8210af80c730ceaad364</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Damage Complaints</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_parent display_value="New Service Requests">16a0530c835d8210af80c730ceaad360</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">137f4696086647c68c97f84265ac3dc4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_449357cc835d8210af80c730ceaad364</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_449357cc835d8210af80c730ceaad364">049357cc835d8210af80c730ceaad368</sys_update_version>
+        <sys_updated_by>Deirdre Hart</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:11:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

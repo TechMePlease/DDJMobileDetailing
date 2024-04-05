@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Custom Portal App Config">6c4d57c8839d8210af80c730ceaad3dd</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Search Page">f04d97c8489d82102765b72880b5db67</macroponent>
+        <macroponent_config>{
+  "searchContextConfigId" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "searchTerm" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Search Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Search Page">304d97c8ac9d82100332df2f8512506a</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 23:52:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f44d97c87f9d82106703f86be70cbf45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_screen_f44d97c87f9d82106703f86be70cbf45</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:52:54</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=f44d97c87f9d82106703f86be70cbf45"/>
+</record_update>

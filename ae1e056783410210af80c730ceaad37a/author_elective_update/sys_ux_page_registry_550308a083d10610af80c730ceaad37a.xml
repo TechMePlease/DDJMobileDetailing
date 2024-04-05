@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>590308a083d10610af80c730ceaad37a</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>ddj-deluxe-detailing-new-registration</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-28 21:16:25</sys_created_on>
+        <sys_id>550308a083d10610af80c730ceaad37a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DDJ Deluxe Detailing</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_page_registry_550308a083d10610af80c730ceaad37a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:16:25</sys_updated_on>
+        <title>DDJ Deluxe Detailing </title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</application>
+        <file_path/>
+        <instance_id>889c51e11b8506147d9d2f8dee4bcb83</instance_id>
+        <instance_name>dev245491</instance_name>
+        <name>sys_ux_page_registry_550308a083d10610af80c730ceaad37a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>590308a083d10610af80c730ceaad37a</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>ddj-deluxe-detailing-new-registration</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-28 21:16:25</sys_created_on><sys_id>550308a083d10610af80c730ceaad37a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DDJ Deluxe Detailing</sys_name><sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package><sys_policy/><sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope><sys_update_name>sys_ux_page_registry_550308a083d10610af80c730ceaad37a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-28 21:16:25</sys_updated_on><title>DDJ Deluxe Detailing </title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-583058729</payload_hash>
+        <record_name>DDJ Deluxe Detailing </record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:05</sys_created_on>
+        <sys_id>876384e083d10610af80c730ceaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e86ed572c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:05</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>476384e052d10610d9bd1d8747718b8e</update_guid>
+        <update_guid_history>476384e052d10610d9bd1d8747718b8e:-583058729</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>158e1a495d714674873757e62e6481b1</sys_id>
+        <sys_metadata>550308a083d10610af80c730ceaad37a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DDJ Deluxe Detailing</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">137f4696086647c68c97f84265ac3dc4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_550308a083d10610af80c730ceaad37a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_550308a083d10610af80c730ceaad37a">876384e083d10610af80c730ceaad38e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

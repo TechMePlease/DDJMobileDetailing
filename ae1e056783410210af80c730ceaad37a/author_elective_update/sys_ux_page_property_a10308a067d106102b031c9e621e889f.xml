@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="">550308a083d10610af80c730ceaad37a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-28 21:16:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a10308a067d106102b031c9e621e889f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_page_property_a10308a067d106102b031c9e621e889f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:16:23</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1353390_ddj_de_0.550308a083d10610af80c730ceaad37a.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</application>
+        <file_path/>
+        <instance_id>889c51e11b8506147d9d2f8dee4bcb83</instance_id>
+        <instance_name>dev245491</instance_name>
+        <name>sys_ux_page_property_a10308a067d106102b031c9e621e889f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>global_search_configurations</name><page display_value="">550308a083d10610af80c730ceaad37a</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-28 21:16:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a10308a067d106102b031c9e621e889f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package><sys_policy/><sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope><sys_update_name>sys_ux_page_property_a10308a067d106102b031c9e621e889f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-28 21:16:23</sys_updated_on><type>json</type><unique_name>x_1353390_ddj_de_0.550308a083d10610af80c730ceaad37a.root.global_search_configurations</unique_name><value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>191178489</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:05</sys_created_on>
+        <sys_id>8b6384e083d10610af80c730ceaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e86ed59cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:05</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>4b6384e0fdd10610ee541f84077d41a3</update_guid>
+        <update_guid_history>4b6384e0fdd10610ee541f84077d41a3:191178489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>07ce46e31f1e460080a1656b62fd6811</sys_id>
+        <sys_metadata>a10308a067d106102b031c9e621e889f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">137f4696086647c68c97f84265ac3dc4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a10308a067d106102b031c9e621e889f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a10308a067d106102b031c9e621e889f">8b6384e083d10610af80c730ceaad3a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

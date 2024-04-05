@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">210308a050d1061060948ebeab1fbdcd</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-28 21:16:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e90308a06ed106104d1fce943285ecce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>m2m_app_config_theme_e90308a06ed106104d1fce943285ecce</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:16:22</sys_updated_on>
+        <theme display_value="Light Theme">e10308a043d10610848f91bdd8aa32cd</theme>
+        <ux_app_configuration display_value="">590308a083d10610af80c730ceaad37a</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</application>
+        <file_path/>
+        <instance_id>889c51e11b8506147d9d2f8dee4bcb83</instance_id>
+        <instance_name>dev245491</instance_name>
+        <name>m2m_app_config_theme_e90308a06ed106104d1fce943285ecce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">210308a050d1061060948ebeab1fbdcd</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-28 21:16:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e90308a06ed106104d1fce943285ecce</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package><sys_policy/><sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope><sys_update_name>m2m_app_config_theme_e90308a06ed106104d1fce943285ecce</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-28 21:16:22</sys_updated_on><theme display_value="Light Theme">e10308a043d10610848f91bdd8aa32cd</theme><ux_app_configuration display_value="">590308a083d10610af80c730ceaad37a</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-101541336</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:06</sys_created_on>
+        <sys_id>5f63c4e083d10610af80c730ceaad35d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e86ed5e830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:06</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>1f63c4e005d106109a19d94a24675e5d</update_guid>
+        <update_guid_history>1f63c4e005d106109a19d94a24675e5d:-101541336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9363c4e083d10610af80c730ceaad35f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 21:18:07</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>00044e384551484d8017912b50f89e21</sys_id>
+        <sys_metadata>e90308a06ed106104d1fce943285ecce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">137f4696086647c68c97f84265ac3dc4</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_e90308a06ed106104d1fce943285ecce</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_e90308a06ed106104d1fce943285ecce">5f63c4e083d10610af80c730ceaad35d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 21:18:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

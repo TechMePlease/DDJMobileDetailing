@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
-        <cat_item display_value="Damage Complaints">16a0530c835d8210af80c730ceaad360</cat_item>
+        <cat_item display_value="New Service Requests">16a0530c835d8210af80c730ceaad360</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -54,7 +54,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_1353390_ddj_de_0_damage_complaints</record_producer_table>
+        <record_producer_table>x_1353390_ddj_de_0_mobile_detailing_requests</record_producer_table>
         <reference/>
         <reference_qual>undefined</reference_qual>
         <reference_qual_condition>undefined</reference_qual_condition>
@@ -77,14 +77,14 @@
         <sys_created_by>Deirdre Hart</sys_created_by>
         <sys_created_on>2024-03-27 23:28:46</sys_created_on>
         <sys_id>b6659b40839d8210af80c730ceaad312</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>What is the size of the damage?</sys_name>
         <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
         <sys_policy/>
         <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
         <sys_update_name>item_option_new_b6659b40839d8210af80c730ceaad312</sys_update_name>
-        <sys_updated_by>Deirdre Hart</sys_updated_by>
-        <sys_updated_on>2024-03-28 01:56:07</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 22:51:36</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

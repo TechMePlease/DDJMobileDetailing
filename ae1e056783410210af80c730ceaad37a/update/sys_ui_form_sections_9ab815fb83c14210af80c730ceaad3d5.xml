@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-03-26 19:35:20</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-26 19:35:20</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>eab815fb83c14210af80c730ceaad3d9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_1353390_ddj_de_0_mobile_detailing_requests" name="x_1353390_ddj_de_0_mobile_detailing_requests" sys_domain="global" view="Default view">9ab815fb83c14210af80c730ceaad3d5</sys_ui_form>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1353390_ddj_de_0_mobile_detailing_requests" sys_domain="global" view="Default view">16b815fb83c14210af80c730ceaad3d4</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-26 19:35:20</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1353390_ddj_de_0_mobile_detailing_requests</name>
             <roles/>
