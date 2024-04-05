@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Requested Service">97f8d06c83150610af80c730ceaad3a7</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 22:54:50</sys_created_on>
+        <sys_id>94999c6c83150610af80c730ceaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Interior and Exterior</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>question_choice_94999c6c83150610af80c730ceaad355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 22:54:50</sys_updated_on>
+        <text>Interior and Exterior</text>
+        <value>interior_and_exterior</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=94999c6c83150610af80c730ceaad355"/>
+</record_update>

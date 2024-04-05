@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1353390_ddj_de_0_mobile_detailing_requests" version="2" view="RPT575229f883510210af80c730ceaad3ef">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>56a2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>customer_nam0</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>d6a2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>customer_phone_numbe0</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>5aa2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>daa2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vehicle_make_model</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>5ea2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>dea2e53c83510210af80c730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_preferred_services</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>52a2e53c83510210af80c730ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_note0</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>d2a2e53c83510210af80c730ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>56a2e53c83510210af80c730ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>d6a2e53c83510210af80c730ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comment0</element>
+            <list_id display_value="x_1353390_ddj_de_0_mobile_detailing_requests" element="NULL" name="x_1353390_ddj_de_0_mobile_detailing_requests" parent="NULL" relationship="NULL" sys_domain="global" view="db52a13c83510210af80c730ceaad33c">9aa2e53c83510210af80c730ceaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_id>5aa2e53c83510210af80c730ceaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1353390_ddj_de_0_mobile_detailing_requests</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-29 22:52:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9aa2e53c83510210af80c730ceaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1353390_ddj_de_0_mobile_detailing_requests</sys_name>
+            <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+            <sys_update_name>sys_ui_list_x_1353390_ddj_de_0_mobile_detailing_requests_RPT575229f883510210af80c730ceaad3ef</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-29 22:52:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt575229f883510210af80c730ceaad3ef" name="RPT575229f883510210af80c730ceaad3ef">db52a13c83510210af80c730ceaad33c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

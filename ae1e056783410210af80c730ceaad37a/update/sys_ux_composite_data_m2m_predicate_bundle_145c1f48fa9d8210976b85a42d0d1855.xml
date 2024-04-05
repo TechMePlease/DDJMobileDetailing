@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">d05c1f48529d82105c282130a57d6459</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">d85c1f48889d8210bc5bb89628b09b54</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-27 23:48:48</sys_created_on>
+        <sys_id>145c1f48fa9d8210976b85a42d0d1855</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_145c1f48fa9d8210976b85a42d0d1855</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-27 23:48:48</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1353390_ddj_de_0.admin" name="x_1353390_ddj_de_0.admin">a61e056783410210af80c730ceaad383</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 00:10:27</sys_created_on>
+        <sys_id>221e056783410210af80c730ceaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a61e056783410210af80c730ceaad383</sys_name>
+        <sys_package display_value="DDJ Deluxe Detailing " source="x_1353390_ddj_de_0">ae1e056783410210af80c730ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DDJ Deluxe Detailing ">ae1e056783410210af80c730ceaad37a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_221e056783410210af80c730ceaad385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 00:10:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
